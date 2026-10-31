@@ -1,0 +1,12 @@
+{
+ "variant": "d.5",
+ "alpha": 0.75,
+ "pscale": null,
+ "free": false,
+ "kappa": 0.5,
+ "prior_epochs": 8,
+ "cat_epochs": 4,
+ "social_weight": 0.0,
+ "anchor": 0.5,
+ "anchor_deg": true
+}

@@ -1,0 +1,32 @@
+{
+ "lastfm": {
+  "LightGCN": 0.002,
+  "SGL": 0.001,
+  "SimGCL": 0.001,
+  "LightGCL": 0.002,
+  "HCCF": 0.001,
+  "SEPT": 0.001,
+  "NCF": 0.001,
+  "DeepFM": 0.002
+ },
+ "ml10m": {
+  "LightGCN": 0.002,
+  "SGL": 0.001,
+  "SimGCL": 0.001,
+  "LightGCL": 0.001,
+  "HCCF": 0.002,
+  "SEPT": 0.001,
+  "NCF": 0.001,
+  "DeepFM": 0.002
+ },
+ "beauty": {
+  "LightGCN": 0.001,
+  "SGL": 0.001,
+  "SimGCL": 0.002,
+  "LightGCL": 0.002,
+  "HCCF": 0.001,
+  "SEPT": 0.001,
+  "NCF": 0.002,
+  "DeepFM": 0.002
+ }
+}
