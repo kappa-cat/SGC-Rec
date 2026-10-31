@@ -1,0 +1,25 @@
+{
+ "dataset": "ml10m",
+ "users": 2978,
+ "items": 3903,
+ "interactions": 214220,
+ "density": 0.018430485271872455,
+ "social_edges_seeds0_9": [
+  5106,
+  5234,
+  5220,
+  5079,
+  5265,
+  5210,
+  5216,
+  5155,
+  5194,
+  5128
+ ],
+ "social_density_seed0": 0.0011518801070125044,
+ "categories": 19,
+ "test_users_seed0": 2978,
+ "train": 171354,
+ "val": 21433,
+ "test": 21433
+}

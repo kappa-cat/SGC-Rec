@@ -1,0 +1,6 @@
+# Python >= 3.10. Experiments were run with PyTorch 2.11 (CUDA 12.8) on one NVIDIA RTX 5060 Laptop GPU (8 GB).
+torch>=2.1
+numpy
+scipy
+pandas
+matplotlib

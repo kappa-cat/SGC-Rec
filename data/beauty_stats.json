@@ -1,0 +1,25 @@
+{
+ "dataset": "beauty",
+ "users": 22363,
+ "items": 12101,
+ "interactions": 198502,
+ "density": 0.0007335227064174272,
+ "social_edges_seeds0_9": [
+  65228,
+  65356,
+  65151,
+  64742,
+  65856,
+  65753,
+  65412,
+  66231,
+  65402,
+  65071
+ ],
+ "social_density_seed0": 0.0002608695273105195,
+ "categories": 195,
+ "test_users_seed0": 22363,
+ "train": 146062,
+ "val": 26220,
+ "test": 26220
+}

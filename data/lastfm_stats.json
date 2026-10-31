@@ -1,0 +1,25 @@
+{
+ "dataset": "lastfm",
+ "users": 1892,
+ "items": 17632,
+ "interactions": 92834,
+ "density": 0.0027828151199241814,
+ "social_edges_seeds0_9": [
+  12717,
+  12717,
+  12717,
+  12717,
+  12717,
+  12717,
+  12717,
+  12717,
+  12717,
+  12717
+ ],
+ "social_density_seed0": 0.007108893467778271,
+ "categories": 1040,
+ "test_users_seed0": 1883,
+ "train": 74264,
+ "val": 9285,
+ "test": 9285
+}
